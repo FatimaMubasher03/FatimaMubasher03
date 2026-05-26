@@ -2,7 +2,7 @@
 
 ### Data Science Graduate | Backend Developer | AI Enthusiast
 
-I am a Data Science student passionate about building scalable backend systems, AI-powered applications, and intelligent automation solutions. I enjoy working with Python, FastAPI, Django, REST APIs, Machine Learning, and GenAI technologies.
+I am a Data Science graduate passionate about building scalable backend systems, AI-powered applications, and intelligent automation solutions. I enjoy working with Python, FastAPI, Django, REST APIs, Machine Learning, and GenAI technologies.
 
 * 🔭 Currently working on AI & Backend Development Projects
 * 🌱 Exploring LLMs, AI Security, and Scalable System Design
