@@ -1,6 +1,6 @@
 # Hi, I'm Fatima Mubasher 👋
 
-### Data Science Undergraduate | Backend Developer | AI Enthusiast
+### Data Science Graduate | Backend Developer | AI Enthusiast
 
 I am a Data Science student passionate about building scalable backend systems, AI-powered applications, and intelligent automation solutions. I enjoy working with Python, FastAPI, Django, REST APIs, Machine Learning, and GenAI technologies.
 
